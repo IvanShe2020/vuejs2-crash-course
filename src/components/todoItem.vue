@@ -1,14 +1,12 @@
 <template>
   <div>
-    <ul>
-      todo 1
-    </ul>
+
   </div>
 </template>
 
 <script>
 export default {
-name: "todoList"
+name: "todoItem"
 }
 </script>
 

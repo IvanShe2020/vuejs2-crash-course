@@ -2,14 +2,16 @@
   <div id="app">
     <h1>Todo aplication</h1>
     <hr>
+    <tL></tL>
   </div>
 </template>
 
 <script>
-
+import tL from '@/components/todoList'
 export default {
   name: 'App',
   components: {
+    tL
   }
 }
 </script>
